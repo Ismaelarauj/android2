@@ -1,7 +1,7 @@
 {
-   "produto" : 
-    { "id" : 1 , 
-       "nome" : "Caneta", 
+   "produto" : { 
+      "id" : 1, 
+      "nome" : "Caneta", 
        "valor" : "12"  
    }
 }
